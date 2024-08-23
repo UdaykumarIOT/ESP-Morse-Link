@@ -60,4 +60,4 @@ This project demonstrates a single-directional Morse code communication system u
 
 ## Documentation
 
-For detailed documentation and additional information, please refer to the [Project Documentation](https://example.com/project-documentation).
+For detailed documentation and additional information, please refer to the [Project Documentation](https://drive.google.com/file/d/1WZoI68UPOLsZ_6QZuQ9HmWHU686xaXf9/view?usp=drive_link).
